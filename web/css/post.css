@@ -1,0 +1,7 @@
+.post-title{
+    overflow-wrap: break-word;
+}
+
+.comment-content {
+   overflow-wrap: anywhere;
+}
