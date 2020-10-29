@@ -4,9 +4,12 @@
 This repo contains the source code of Lab Java Web Application - Mini Social Network - one of threes lab at FPT University - HCMC campus.
 
 ### You will find in this repo
-A mini social network project which I use Servlet as Controller and follow MVC2 model
+A mini social network project which uses Servlet as Controller and follows MVC2 model
+
 Uploading image into Cloudinary.com using Javascript
+
 Basic know about applied AJAX to MVC2 Model
+
 Using data source into Java Web App
 
 ### How to use this?

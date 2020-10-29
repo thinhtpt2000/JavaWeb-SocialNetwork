@@ -129,11 +129,11 @@
     </context-param>
     <context-param>
         <param-name>address</param-name>
-        <param-value>thinhtpt.temp@gmail.com</param-value>
+        <param-value>EMAIL_HERE</param-value>
     </context-param>
     <context-param>
         <param-name>password</param-name>
-        <param-value>thinhtpt.2000</param-value>
+        <param-value>PASSWORD_HERE</param-value>
     </context-param>
     <error-page>
         <error-code>404</error-code>
